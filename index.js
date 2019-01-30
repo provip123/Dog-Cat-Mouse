@@ -5,4 +5,4 @@ var Mouse = require('./Mouse');
 var dog = new Dog('Ot');
 var tom = new Cat();
 dog.eat(tom);
-console.log(dog)
+
